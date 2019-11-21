@@ -3,6 +3,7 @@
     "description": "PHP library to publish data on Kairos with Lumen framework.",
     "version": "1.0.0",
     "type": "library",
+    "license": "GPL-3.0-only",
     "require": {
         "newwaybrazil/kairos-publisher-php": "^1.0"
     },
