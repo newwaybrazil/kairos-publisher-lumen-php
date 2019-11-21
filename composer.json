@@ -1,6 +1,6 @@
 {
-    "name": "pedro-mota/kairos-publish-service",
-    "description": "PHP library to publish data on Kairos.",
+    "name": "newwaybrazil/kairos-publisher-lumen-php",
+    "description": "PHP library to publish data on Kairos with Lumen framework.",
     "version": "1.0.0",
     "type": "library",
     "require": {
@@ -14,8 +14,8 @@
     },
     "authors": [
         {
-            "name": "Pedro Henrique Mota",
-            "email": "phms.1998@gmail.com" 
+            "name": "New Way Brazil",
+            "email": "contato@gruponewway.com.br"
         }
     ],
     "autoload": {
